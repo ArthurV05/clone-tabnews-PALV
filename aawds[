@@ -1,0 +1,45 @@
+[33mcommit 3b4ba59c99d2cb0a59f959f52be62d2b0071beee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Arthur Valente <pedroarthurvalente@gmail.com>
+Date:   Thu Apr 16 16:28:46 2026 +0000
+
+    Adiciona a página inicial
+
+ pages/index.js | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
+
+[33mcommit f1b6623da2e0f63803e76ccd28ac1e94300b00a7[m
+Author: Arthur Valente <pedroarthurvalente@gmail.com>
+Date:   Thu Apr 16 15:04:29 2026 +0000
+
+    Adiciona arquivos package.json e package-lock.json
+
+ package-lock.json | 457 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json      |  16 [32m++++[m
+ 2 files changed, 473 insertions(+)
+
+[33mcommit 8734c3d0be44819fd0f6e110e8572a5783856a94[m
+Author: Arthur Valente <pedroarthurvalente@gmail.com>
+Date:   Thu Apr 16 14:54:55 2026 +0000
+
+    adiciona arquivo .nvmrc a origin
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 015197198179e6fe04efec0273bb10d938aa9d69[m
+Author: Arthur Valente <pedroarthurvalente@gmail.com>
+Date:   Wed Apr 8 13:40:02 2026 +0000
+
+    segundo commit - adiciona o arquivo .gitignore, contendo o arquivo .next
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit a8d91bca8a5349b1dea6dba5bc405520695773ae[m
+Author: Arthur Valente <pedroarthurvalente@gmail.com>
+Date:   Fri Mar 20 11:30:39 2026 -0300
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
